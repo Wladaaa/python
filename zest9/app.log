@@ -1,0 +1,11 @@
+INFO:root:Start
+INFO:root:Stop
+INFO:root:Start
+WARNING:root:Stop
+INFO:root:Start
+WARNING:root:Stop
+DEBUG:root:A problem occured
+INFO:root:Start
+WARNING:root:Stop
+INFO:root:Start
+INFO:root:Start
